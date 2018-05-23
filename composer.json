@@ -1,0 +1,19 @@
+{
+    "name": "lidelin/aliyun-openapi-imm",
+    "description": "aliyun openapi imm",
+    "authors": [
+        {
+            "name": "lidelin",
+            "email": "lidelin1023@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "imm\\": "src/imm"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    }
+}
