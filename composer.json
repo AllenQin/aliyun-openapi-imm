@@ -7,7 +7,9 @@
             "email": "lidelin1023@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "lidelin/aliyun-openapi-core": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "imm\\": "src/imm"
