@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "lidelin/aliyun-openapi-core": "dev-master"
+        "lidelin/aliyun-openapi-core": "^0.1.0"
     },
     "autoload": {
         "psr-4": {
